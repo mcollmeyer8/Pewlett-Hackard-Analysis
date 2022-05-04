@@ -19,7 +19,7 @@ We learned so much from the info we pulled from the CSVs!
 ![image](https://user-images.githubusercontent.com/93055450/159408321-bccbc765-7e64-47cb-a522-61d29794dad0.png)
 
 
-- Upper management specifically wanted to know how many roles will need to be filled as the "silver tsunami" begins to make an impact?
+- Upper management specifically wanted to know how many roles will need to be filled as the "silver tsunami" begins to make an impact.
 
 Per our research, over 72K roles will need to be filled, primarily Senior level positions.
 
